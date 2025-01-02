@@ -1,29 +1,23 @@
+# Guia Completo de Programação
+
 <p align="center">
   <a href="https://github.com/vncsmnl/GuiaDoProgramador">
     <img src="./assets/wallpaper.png" alt="Guia Extenso de Programação">
   </a>
-  <h1 align="center">Guia Completo de Programação.</h1>
 </p>
 
-<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%2210 0 100 100%22><text y=%22.90em%22 font-size=%2290%22>🖥</text></svg>">
+<sub><strong>⚠️ Este repositório é um fork do projeto original criado por [arthurspk](https://github.com/arthurspk/guiadevbrasil). O conteúdo foi mantido fiel ao original, com adaptações para fins de estudo.⚠️</strong></sub>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-<sub> <strong>forked from arthurspk/guiadevbrasil</strong>
-
-[![GitHub followers](https://img.shields.io/github/followers/vncsmnl?branch=master&label=Followers&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)](https://github.com/vncsmnl?tab=followers)
-[![GitHub forks](https://img.shields.io/github/forks/vncsmnl/guiadoprogramador?branch=master&label=Forks&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)](https://github.com/vncsmnl/guiadoprogramador/network/members)
-[![GitHub stars](https://img.shields.io/github/stars/vncsmnl/guiadoprogramador?branch=master&label=Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)](https://github.com/vncsmnl/guiadoprogramador/stargazers)
-[![GitHub watchers](https://img.shields.io/github/watchers/vncsmnl/guiadoprogramador?branch=master&label=Watchers&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)](https://github.com/vncsmnl/guiadoprogramador/watchers)
+---
 
 ## 📒 Um guia extensivo para alavancar a sua carreira.
 
-Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou se especializar em qualquer área da TI. Se você já é desenvolvedor ou está migrando de outra área, confira o repositório para descobrir ferramentas para o seu dia a dia, possíveis caminhos e tecnologias que iram te ajudar a fazer muitas coisas. **Seja um dev atualizado e reconhecido**.
+Abaixo você encontra materiais para te ajudar a se tornar um desenvolvedor ou se especializar em qualquer área da TI. Se você já é desenvolvedor ou está migrando de outra área, confira o repositório para descobrir ferramentas para o seu dia a dia, possíveis caminhos e tecnologias que irão te ajudar a fazer muitas coisas. **Seja um dev atualizado e reconhecido.**
 
 <sub> <strong>Siga as minhas redes sociais para acompanhar mais conteúdos: </strong> <br>
-<a href="https://instagram.com/vncsmnl"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat"></a>
-<a href="https://twitter.com/vncsmnl"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat"></a>
-<a href="https://br.linkedin.com/in/vncsmnl"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat"></a>
+<a href="https://instagram.com/felipetaua"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat"></a>
+<a href="https://twitter.com/felipetaua"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat"></a>
+<a href="https://br.linkedin.com/in/felipetaua"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat"></a>
 <a href="https://www.reddit.com/user/vncsmnl"><img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=fff&style=flat"></a>
 <a href="https://academyvncsmnl.notion.site/academyvncsmnl/An-lises-e-Desenvolvimento-de-Sistemas-6e03f535ab244a77ab75288c396da09e"><img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=flat"></a>
 <a href="https://www.hackerrank.com/vncsmnl?hr_r=1"><img src="https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=flat"></a>
