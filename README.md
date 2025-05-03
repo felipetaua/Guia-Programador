@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<sub><strong>⚠️ Este repositório é um fork do projeto original criado por [arthurspk](https://github.com/arthurspk/guiadevbrasil). O conteúdo foi mantido fiel ao original, com adaptações para fins de estudo.⚠️</strong></sub>
+<sub><strong>⚠️ Este repositório é um fork do projeto original criado por [arthurspk](https://github.com/arthurspk/guiadevbrasil). O conteúdo foi mantido fiel ao original, com adaptações para fins de estudo. Inclusive um ótimo conteúdo⚠️</strong></sub>
 
 ---
 
